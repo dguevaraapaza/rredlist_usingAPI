@@ -1,3 +1,2 @@
-# Using rredlist API
-
-Snipets to fetch information from the RedListAPI to prepare reports and compare information for research.
+# rredlist_usingAPI
+Containing code to fetch information from the RedListAPI to prepare reports and compare information for research using scientific names for query.
