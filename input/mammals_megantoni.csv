@@ -1,75 +1,58 @@
 order,family,genera,species,name,status,observation
-Primate,Atelidae,Ateles,Ateles chamek,Maquisapa,Peligro,
-Primate,Atelidae,Lagothrix,Lagothrix cana,Mono Choro,Peligro,
-Primates,Atelidae,Ateles,Ateles chamec,Makisapa,Peligro,
-Carnivora,Canidae,Atelocynus,Atelocynus microtis,Zorro negro,,Camara trampa
-Carnivora,Canidae,Speothos,Speothos venaticus,Perrito de monte,,Camara trampa
-Primates,Cebidae,Cebus,Cebus apella,Mono silbador,,Camara trampa
-Primate,Cebidae,Saguinus,Saguinus fuscicollis,Pichico comun,,
-Primate,Cebidae,Cebus,Cebus albifrons,Machin blanco,,
-,Cebidae,,Saimiri sciureus,Frailecito,,
-,Cebidae,,Saguinus mystax,Pichico de pecho negro,,
-,Cebidae,,Saguinus imperator,Pichico emperador,,
-Artiodactyla,Cervidae,Mazama,Mazama americana,Venado colorado,,Camara trampa
-Artiodactyla,Cervidae,Mazama,Mazama nemorivaga,Venaddo Gris,,Camara trampa
-Cingulata,Chlamyphoridae,Priodontes,Priodontes maximus,Armadillo gigante,Vulnerable,
-Rodentia,Cuniculidae,Cuniculus,Cuniculus paca,Picuro,,Camara trampa
-,Cuniculidae,,Cunuliculus paca,"Majaz, picuro",,
-Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,Armadillo de nueve bandas,,Camara trampa
-Cingulata,Dasypodidae,Dasypus,Dasypus sp,Armadillo,,
-,Dasypodidae,,Priodontes maxima,,,
-,Dasypodidae,,Dasyprocta fuliginosa,,,
-Rodentia,Dasyproctidae,Dasyprocta,Dasyprocta sp,Añuje,,Camara trampa
-Cingulata,Dasyprodidae,Dasypus,Dasypus variegata,Armadillo,,
-Rodentia,Dasyprodidae,Dasyprocta,Dasyprocta fuliginos,Añuje,,
-Didelphimorphia,Didelphidae,Didelphys,Didelphys marsupialis,Zariguella,,Camara trampa
-,Didelphidae,,Didelphis marsupialis,Comadreja,,
-Rodentia,Dinimydae,Dinomys,Dinomys branikii,Pacarana,Vulnerable,
-,Dinomyidae,,Dinomus branikii,Picuromama,,
-Rodentia,Erethizontidae,Coendou,Coendou sp,Puercoespin,,Camara trampa
-,Erithezontidae,,Coendu prehensilis,Erithezontidae,,
-Carnivora,Feliade,Leopardus,Leopardus tigrinus,Gato tigre,Vulnerable,Camara trampa
-Carnivora,Feliade,Eira,Eira barbara,Manco,,Camara trampa
-Carnivora,Feliade,Leopardus,Leopardus pardalis,Ocelote,,Camara trampa
-Carnivora,Feliade,Leopardus,Leopardus wiedii,Margay,,Camara trampa
-Carnivora,Feliade,Panthera,Panthera onca,Jaguar,,Camara trampa
-Carnivora,Feliade,Puma,Puma concolor,Puma,,Camara trampa
-Carnivora,Feliade,Puma,Puma jagouaroundi,Yaguarundi,,Camara trampa
-Carnivora,Felidae,Leopardus,Leopardus wiedi,Huamburushu,Data insuficiente,
-Carnivora,Felidae,Puma,Puma yagouaroundi,Yagouaroundi,,
-Lagomorpha,Leporidae,Sylvilagus,Sylvilagus brasiliensis,Conejo brasileño,,Camara trampa
-Carnivora,Mustelidae,Pteronura,Pteronura brasiliensis,Lobo de rio,Peligro,
-Carnivora,Mustelidae,Lontra,Lontra longicaudis,Lobo de rio,,
-,Mustelidae,,Nasua narica,,,
-Pilosa,Mymercophagidae,Tamandua,Tamandua tetradactyla,Oso hormiguero,,
-Pilosa,Mymercophagidae,Myrmecophaga,Myrmecophaga tridactyla,Oso hormiguero,Vulnerable,
-,Phyllostomidae,,Dermanura gnoma,,,
-,Phyllostomidae,Carollinae,Carollia platyrrhinus,,,
-,Phyllostomidae,Carollinae,Carollia brevicauda,,,
-,Phyllostomidae,,Mesophylla macconnelli,,,
-,Phyllostomidae,,Trachops cirrhosus,,,
-,Pithecidae,,Cheracebus lucifer,Tocon de manos amarillas,,
-Carnivora,Procyonidae,Nasua,Nasua nasua,Coati,,Camara trampa
-Carnivora,procyonidae,Procyon,Procyon carnivorus,Osito lavador,,
-Carnivora,Procyonidae,Procyon,Procyon cancrivorus,Osito lavador,,
-,Procyonidae,,Dassipus novemcintus,,,
-Rodentia,Sciuridae,Sciurillus,Sciurillus spp,Ardilla,,Camara trampa
-Rodentia,Sciuridae,Microsciurus,Microsciurus flaviventer,Ardilla enana,Data insuficiente,
-Rodentia,Sciuridae,Hadrosciurus,Hadrosciurus spadieceus,Ardilla balla,,
-Rodentia,Sciuridae,Hadrosciurus,Hadrosciurus ignitus,Ardilla ignea,Data insuficiente,
-Rodentia,Sciuridae,Sciurus,Sciurus spadiceus,Ardilla baya,,
-Perissodactyla,Tapiridae,Tapirus,Tapirus terrestres,Sachavaca,Vulnerable,
-Perissodactyla,Tapiridae,Tapirus,Tapirus terrestris,Sachavaca,Vulnerable,
-Artiodactyla,Tayassuidae,Dicotyles,Dicotyles tajacu,Sajino,,Camara trampa
-Artiodactyla,Tayassuidae,Tayassu,Tayassu pecari,Huangana,Vulnerable,
-Artiodactyla,Tayassuidae,Tayassu,Tayassu peccari,Huangana,Vulnerable,
-,Vespertilionidae,,Vampyressa cf melissa,,Vulnerable,
-,,Stenodermatinae,Platyrrhinus brachycephalus,,,Frugivoro
-,,Stenodermatinae,Platyrrhinus incarum,,,Frugivoro
-,,Stenodermatinae,Uroderma bilobatum,,,Frugivoro
+,,,Alouatta palliata,,,
 ,,,Artibeus obscurus,,,Frugivoro
 ,,,Artibeus planirostris,,,Frugivoro
+Primate,Atelidae,Ateles,Ateles chamek,Maquisapa,Peligro,
+Carnivora,Canidae,Atelocynus,Atelocynus microtis,Zorro negro,,Camara trampa
+,,,Ateles belzebuth,Maquisapa,,
+,Phyllostomidae,Carollinae,Carollia brevicauda,,,
+Primate,Cebidae,Cebus,Cebus albifrons,Machin blanco,,
+Primates,Cebidae,Sapajus,Sapajus apella,Mono silbador,,Camara trampa
+,Pithecidae,,Cheracebus lucifer,Tocon de manos amarillas,,
+Rodentia,Erethizontidae,Coendou,Coendou prehensilis,Puercoespin,,Camara trampa
+Rodentia,Cuniculidae,Cuniculus,Cuniculus paca,"Majaz, picuro",,Camara trampa
+,Procyonidae,,Dasypus novemcinctus,,,
+Rodentia,Dasyprodidae,Dasyprocta,Dasyprocta fuliginosa,Añuje,,
+Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,Armadillo de nueve bandas,,Camara trampa
+Cingulata,Dasyprodidae,Dasypus,Dasyprocta variegata,Armadillo,,
+,Phyllostomidae,,Dermanura gnoma,,,
+Artiodactyla,Tayassuidae,Pecari,Pecari tajacu,Sajino,,Camara trampa
+Didelphimorphia,Didelphidae,Didelphys,Didelphis marsupialis,"Zariguella, Comadreja",,Camara trampa
+Rodentia,Dinomyidae,Dinomys,Dinomys branickii,"Pacarana, Picuromama",Vulnerable,
+Carnivora,Feliade,Eira,Eira barbara,Manco,,Camara trampa
+Rodentia,Sciuridae,Sciurus,Sciurus ignitus,Ardilla ignea,Data insuficiente,
+Rodentia,Sciuridae,Sciurus,Sciurus spadiceus,Ardilla balla,,
+Primate,Atelidae,Lagothrix,Lagothrix lagothricha,Mono Choro,Peligro,
+Carnivora,Feliade,Leopardus,Leopardus pardalis,Ocelote,,Camara trampa
+Carnivora,Feliade,Leopardus,Leopardus tigrinus,Gato tigre,Vulnerable,Camara trampa
+Carnivora,Felidae,Leopardus,Leopardus wiedii,"Huamburushu, Margay",Data insuficiente,
+Carnivora,Mustelidae,Lontra,Lontra longicaudis,Lobo de rio,,
+Artiodactyla,Cervidae,Mazama,Mazama americana,Venado colorado,,Camara trampa
+Artiodactyla,Cervidae,Mazama,Mazama nemorivaga,Venaddo Gris,,Camara trampa
+,Phyllostomidae,,Mesophylla macconnelli,,,
+Rodentia,Sciuridae,Microsciurus,Microsciurus flaviventer,Ardilla enana,Data insuficiente,
+Pilosa,Mymercophagidae,Myrmecophaga,Myrmecophaga tridactyla,Oso hormiguero,Vulnerable,
+,Mustelidae,,Nasua narica,,,
+Carnivora,Procyonidae,Nasua,Nasua nasua,Coati,,Camara trampa
+Carnivora,Feliade,Panthera,Panthera onca,Jaguar,,Camara trampa
 ,,Pecari,Pecari tajacu,,,
-,,Priodentes,Priodentes paca,,,
-,,,Alouatta palliata,,,
-,,,Atheles belzebuth,Maquisapa,,
+,,Stenodermatinae,Platyrrhinus brachycephalus,,,Frugivoro
+,,Stenodermatinae,Platyrrhinus incarum,,,Frugivoro
+Cingulata,Dasypodidae,Priodontes,Priodontes maximus,Armadillo gigante,Vulnerable,
+Carnivora,Procyonidae,Procyon,Procyon cancrivorus,Osito lavador,,
+Carnivora,Mustelidae,Pteronura,Pteronura brasiliensis,Lobo de rio,Peligro,
+Carnivora,Feliade,Puma,Puma concolor,Puma,,Camara trampa
+Carnivora,Feliade,Herpailurus,Herpailurus yagouaroundi,Yaguarundi,,Camara trampa
+Primate,Cebidae,Leontocebus,Leontocebus fuscicollis,Pichico comun,,
+,Cebidae,Saguinus,Saguinus imperator,Pichico emperador,,
+,Cebidae,Saguinus,Saguinus mystax,Pichico de pecho negro,,
+,Cebidae,,Saimiri sciureus,Frailecito,,
+Rodentia,Sciuridae,Sciurus,Sciurus spadiceus,Ardilla baya,,
+Carnivora,Canidae,Speothos,Speothos venaticus,Perrito de monte,,Camara trampa
+Lagomorpha,Leporidae,Sylvilagus,Sylvilagus brasiliensis,Conejo brasileño,,Camara trampa
+Pilosa,Mymercophagidae,Tamandua,Tamandua tetradactyla,Oso hormiguero,,
+Perissodactyla,Tapiridae,Tapirus,Tapirus terrestris,Sachavaca,Vulnerable,
+Artiodactyla,Tayassuidae,Tayassu,Tayassu pecari,Huangana,Vulnerable,
+,Phyllostomidae,,Trachops cirrhosus,,,
+,,Stenodermatinae,Uroderma bilobatum,,,Frugivoro
+,Vespertilionidae,,Vampyressa melissa,,Vulnerable,
